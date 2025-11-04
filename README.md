@@ -17,51 +17,67 @@ The project leverages real-world data to uncover patterns in victim demographics
 •	To support data-informed interventions for victim protection and recovery.
 
  Analytical Approach:
+ 
 1.	Data Collection: Data was gathered from verified expert case reports, communication logs, and institutional records.
+   
 2.	Data Cleaning: Performed using excel and power query to handle duplicates, missing data, and formatting inconsistencies.
+   
 3.	Feature Engineering: Created analytical fields such as Risk Score, Severity Level, and Case Duration to enhance interpretability.
+   
 4.	Exploratory Data Analysis (EDA): Conducted to uncover relationships among variables and identify significant abuse trends.
+   
 5.	Visualization & Reporting: Insights were summarized into interactive visuals and reports to support social welfare decision-making.
    
- Tools & Technologies
+ Tools & Technologies:
+ 
 •	Power BI: Visualization and reporting
+
 •	Excel: Data aggregation and cross-verification
 
  Key Insights:
 1.	Abuse Type Distribution:
 •	The most common forms of abuse were Child Abuse (15) and Financial Abuse (11).
+
 •	Other reported cases included Domestic Violence (9), Emotional Abuse (8), and Sexual Abuse (7).
+
 •	These figures highlight child and financial abuse as priority areas for intervention.
-3.	Expert Engagement:
+
+2.	Expert Engagement:
 •	Social Workers (18) handled the majority of cases, followed by Trauma Counselors (11) and Clinical Psychologists (8).
+
 •	This shows the critical frontline role social workers play in managing abuse cases.
 
-4.	Regional Analysis:
+3.	Regional Analysis:
 •	The North Central region (23 cases) recorded the highest number of cases.
+
 •	Lower numbers in other regions may indicate limited awareness, underreporting, or fewer response resources.
 
-5.	Gender Breakdown:
+4.	Gender Breakdown:
 •	The project found 26 female and 24 male victims, reflecting that abuse affects both genders almost equally.
 
-6.	Severity Level:
+5.	Severity Level:
 •	High-severity cases (16) dominated the dataset, followed by Low (14), Moderate (11), and Critical (9).
+
 •	This shows that most victims faced serious or prolonged abuse, requiring sustained intervention.
 
-7.	Offender Patterns:
+6.	Offender Patterns:
 •	The Spouse (20) category was the most frequent offender, followed by Unknown Individuals (9) and Parents (6).
+
 •	Domestic and intimate partner abuse remain the most common, underscoring the need for household-level prevention strategies.
 
-8.	Case Duration and Outcome:
+7.	Case Duration and Outcome:
 •	Case durations ranged between 140 and 312 days, with many marked as Ongoing Counseling, Pending Review, or Closed.
+
 •	This suggests that abuse-related recovery and resolution are long-term processes that need continuous support.
 
-9.	Demographic Overview:
+8.	Demographic Overview:
 •	Youngest victim: 6 years
 •	Oldest victim: 65 years
 •	Total victims: 50
 •	Risk Score range: 13 (minimum) to 74 (maximum)
 
-Observations
+Observations:
+
 1.	High Prevalence of Child and Financial Abuse:
 These two categories accounted for the largest share of reported cases, emphasizing the need for focused child protection and financial empowerment programs.
 2.	Social Workers Are the Primary Responders:
@@ -84,6 +100,7 @@ The project data shows that while professionals are responsive, there’s a need
 Victims span from children to elderly individuals, emphasizing that abuse is not limited to a specific demographic.
 
  Recommendation:
+ 
 1.	Strengthen Early Reporting Mechanisms:
 Create easily accessible channels (hotlines, digital forms, and community centers) to encourage early disclosure and timely intervention.
 2.	Expand Regional Outreach Programs:
@@ -109,7 +126,10 @@ Impact of safe anchor analysis project
 The Safe Anchor Analysis Project demonstrates how data analytics can support social good by uncovering patterns, guiding interventions, and influencing welfare policies.
 Through its findings, the project offers clear directions for preventive strategies, capacity building, and evidence-based resource allocation, ultimately contributing to safer and more responsive community systems.
 
-Key Learnings
+Key Learnings:
+
 •	Handling sensitive data requires both analytical precision and ethical responsibility.
+
 •	Data visualization and storytelling transform complex information into actionable insights.
+
 •	Collaboration between analysts and field experts produces more realistic, people-centered outcomes.
