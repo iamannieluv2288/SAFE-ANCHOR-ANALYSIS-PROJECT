@@ -1,13 +1,19 @@
-Project Overview
+Project Overview:
+
 The Safe Anchor Analysis Project is a data-driven initiative developed to analyze and interpret trends related to abuse cases handled by certified professionals such as psychologists, trauma counselors, and social workers.
 This project is part of the broader Experts for Abuse Victims initiative, a platform designed to connect survivors of abuse with qualified experts, enhance response systems, and promote evidence-based decision-making through analytics.
 The project leverages real-world data to uncover patterns in victim demographics, offender relationships, severity levels, and case outcomes, offering valuable insights for policy makers, welfare organizations, and mental health professionals.
 
  Objectives:
+ 
 •	To analyze patterns of abuse by type, region, gender, and offender.
+
 •	To evaluate expert involvement and case distribution among different professional categories.
+
 •	To examine case duration, outcome, and severity levels.
+
 •	To identify high-risk cases and vulnerable demographics for prioritization.
+
 •	To support data-informed interventions for victim protection and recovery.
 
  Analytical Approach:
